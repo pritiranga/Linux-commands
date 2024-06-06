@@ -1,0 +1,17 @@
+more-> 
+  The more command allows you to view the content of a file one screen at a time. It’s useful for reading long files without having to open them in an editor.
+
+  Syntax :-
+    more <file-name>
+
+less->
+  The less command is more advanced than more. It also allows you to view the content of a file, but it provides more functionality and is generally more efficient.
+
+  Syntax :-
+    less <file-name>
+
+Both more and less commands used to view long files contents. But less is more advanced. We can search any pattern in less command by '/<pattern>'.
+By pressing 'q', quit the file. 
+By pressing 'b', go back to one page.
+By pressing 'SPACE', go to next page.
+By pressing 'ENTER', go to new line.
